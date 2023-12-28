@@ -10,7 +10,7 @@
 * Neural Network - CNN 
 * Model - Sequential
 * Batch size - 16
-* Optimizer - Adadelta (放棄: Adam , RMSProp)
+* Optimizer - Adadelta 
 
 
 ## Related Technique
